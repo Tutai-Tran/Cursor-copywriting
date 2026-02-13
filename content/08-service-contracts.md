@@ -27,10 +27,11 @@
 Contracts
 
 ### H2 Sections
-1. Agreements That Protect You Where It Matters
+1. Agreements That Protect You Where It Matters (Content Block 1)
 2. What Our Contracts Cover
-3. Common Contract Questions
-4. Frequently Asked Questions
+3. Common Contract Questions (Challenges Accordion)
+4. Contracts Built for Chinese Reality (Content Block 2)
+5. Frequently Asked Questions
 
 ---
 
@@ -92,7 +93,32 @@ You can. We review client-provided templates and advise on clauses that may not 
 
 ---
 
-### Section 4: Frequently Asked Questions
+### Section 4: Legal Protection That Works in Practice (Content Block 2)
+
+*[Second content block — appears after "How We Work" steps, orange background]*
+
+**Subtitle:** Contracts
+
+**Title:** Contracts built for Chinese reality, not just European theory
+
+**Content:**
+
+Most European businesses approach Chinese contracts the way they would approach a Dutch or German agreement — in English, under EU jurisdiction, with assumptions about enforcement that do not hold across borders. The result is a document that looks professional but offers little practical protection where it matters: inside China.
+
+Our contracts are different. They are bilingual, referencing Chinese jurisdiction, and structured in the format Chinese courts and arbitration bodies recognise. We address the specific risks that international buyers face: IP leakage, undisclosed subcontracting, unilateral price changes, and delivery default.
+
+More importantly, we design contracts to prevent disputes, not just win them. Clear specifications, agreed penalties, and transparent milestone terms reduce ambiguity — which is where most supplier conflicts begin.
+
+**Selling points:**
+- Bilingual contracts that Chinese courts recognise
+- Dispute prevention through clear terms and milestones
+- IP protection structured for Chinese commercial law
+
+**CTA:** Request a Sourcing Scan →
+
+---
+
+### Section 5: Frequently Asked Questions
 
 **Q1: How much does contract preparation cost?**
 A: Contract costs depend on complexity. A standard supplier manufacturing agreement is included in our sourcing service fee. Specialised contracts (licensing, joint development) are quoted separately.

@@ -27,10 +27,11 @@
 Purchasing Guidance
 
 ### H2 Sections
-1. Strategic Advice for Smarter Importing
+1. Strategic Advice for Smarter Importing (Content Block 1)
 2. What Purchasing Guidance Covers
-3. Common Purchasing Questions
-4. Frequently Asked Questions
+3. Common Purchasing Questions (Challenges Accordion)
+4. Turn Supplier Costs into a Competitive Advantage (Content Block 2)
+5. Frequently Asked Questions
 
 ---
 
@@ -94,7 +95,32 @@ We negotiate MOQs based on long-term volume potential, multi-SKU orders, or timi
 
 ---
 
-### Section 4: Frequently Asked Questions
+### Section 4: Smarter Purchasing, Better Margins (Content Block 2)
+
+*[Second content block — appears after "How We Work" steps, orange background]*
+
+**Subtitle:** Purchasing
+
+**Title:** Turn supplier costs into a competitive advantage
+
+**Content:**
+
+Most brands accept factory pricing at face value because they lack benchmarks. They pay what the first quote says, agree to the payment terms offered, and order according to the factory's suggested MOQs. Each of these defaults erodes margin without the buyer realising it.
+
+Purchasing guidance changes this. We give you independent market data — what comparable products cost at other verified factories, what payment terms are standard for your product type, and what MOQ flexibility is realistic. With this information, you negotiate from a position of knowledge instead of hope.
+
+The impact compounds over time. Better pricing on one product becomes a template for the next. Smarter payment terms improve your cash flow across the entire supply chain. And production planning aligned with Chinese factory calendars eliminates the rush charges that quietly inflate costs every season.
+
+**Selling points:**
+- Independent price benchmarking against verified alternatives
+- Payment term strategies that improve cash flow
+- Production planning that prevents rush charges and delays
+
+**CTA:** Request a Sourcing Scan →
+
+---
+
+### Section 5: Frequently Asked Questions
 
 **Q1: Is purchasing guidance a one-time service or ongoing?**
 A: Both options are available. Some clients engage us for a one-time purchasing review to optimise their current setup. Others use ongoing guidance as their supply chain evolves, with quarterly reviews and strategy sessions.

@@ -27,10 +27,11 @@
 Quality Control
 
 ### H2 Sections
-1. Quality Checked Where It Matters
+1. Quality Checked Where It Matters (Content Block 1)
 2. Types of Inspections We Perform
-3. Common Quality Challenges
-4. Frequently Asked Questions
+3. Common Quality Challenges (Challenges Accordion)
+4. Ship with Confidence, Not with Hope (Content Block 2)
+5. Frequently Asked Questions
 
 ---
 
@@ -96,7 +97,32 @@ Yes. Many clients engage us specifically for QC at their existing suppliers. We 
 
 ---
 
-### Section 4: Frequently Asked Questions
+### Section 4: Confidence Before Shipment (Content Block 2)
+
+*[Second content block — appears after "How We Work" steps, orange background]*
+
+**Subtitle:** Quality assurance
+
+**Title:** Ship with confidence, not with hope
+
+**Content:**
+
+The difference between hoping your goods arrive correctly and knowing they will comes down to one thing: inspection data. Our QC reports give you the evidence to make a clear ship-or-hold decision before a single box leaves the factory.
+
+Each report includes product photos at multiple angles, dimensional measurements against your spec sheet, defect counts classified by severity, and a clear recommendation. If the batch passes, you authorise shipment with confidence. If it does not, our China team stays at the factory until the issues are resolved — so problems end where they start, not at your warehouse.
+
+Over time, inspection data builds a quality track record for each supplier. You can see trends, compare batches, and use the data in pricing negotiations. Quality control stops being a cost and becomes a tool for continuous improvement.
+
+**Selling points:**
+- Evidence-based ship-or-hold decisions before dispatch
+- On-site resolution — problems fixed at the factory
+- Supplier quality track record for long-term improvement
+
+**CTA:** Request a Sourcing Scan →
+
+---
+
+### Section 5: Frequently Asked Questions
 
 **Q1: What is AQL and how does it apply to my products?**
 A: AQL (Acceptable Quality Level) is a statistical sampling method used to determine how many units to inspect and what defect levels are acceptable. We use internationally recognised AQL tables (typically AQL 2.5 for major defects, AQL 4.0 for minor) and adjust based on your tolerance.

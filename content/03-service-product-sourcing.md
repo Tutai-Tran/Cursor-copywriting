@@ -27,10 +27,11 @@
 Product Sourcing
 
 ### H2 Sections
-1. From Idea to Reliable Supply
-2. Why Sourcing Fails Without a System
-3. Our Sourcing Process
-4. Frequently Asked Questions
+1. From Idea to Reliable Supply (Content Block 1)
+2. Why Sourcing Fails Without a System (Challenges Accordion)
+3. Our Sourcing Process (Steps)
+4. A Supply Chain You Own and Control (Content Block 2)
+5. Frequently Asked Questions
 
 ---
 
@@ -94,7 +95,30 @@ We visit every factory in person. We check business licences, production equipme
 
 ---
 
-### Section 4: Frequently Asked Questions
+### Section 4: What You Get — Your Sourcing Results (Content Block 2)
+
+*[This is the second content block on the page — appears after the "How We Work" steps, on orange background with images]*
+
+**Subtitle:** Results
+
+**Title:** A supply chain you own and control
+
+**Content:**
+
+The goal of every sourcing project is not just finding a factory — it is building a supply chain you can depend on for repeat orders. At the end of our process, you have a verified supplier relationship, documented specifications, locked pricing, and an inspection playbook that ensures consistent quality every time you reorder.
+
+You own the factory contact. You see every cost element. And you have an auditable paper trail from first sample to final shipment that makes scaling predictable instead of stressful. Whether you reorder through M-Asia or manage the relationship independently, the foundation is yours.
+
+**Selling points:**
+- Verified supplier relationship you own directly
+- Documented specs and inspection playbook for reorders
+- Full cost visibility from factory gate to your warehouse
+
+**CTA:** Request a Sourcing Scan →
+
+---
+
+### Section 5: Frequently Asked Questions
 
 **Q1: How many suppliers do you typically shortlist?**
 A: We typically present three to five vetted factories per product. Each comes with a capability summary, price comparison, lead time estimate, and our recommendation. You make the final choice.

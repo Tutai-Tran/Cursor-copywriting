@@ -27,10 +27,11 @@
 Transport
 
 ### H2 Sections
-1. Door-to-Door Logistics from China
+1. Door-to-Door Logistics from China (Content Block 1)
 2. Transport Options Compared
-3. Common Logistics Challenges
-4. Frequently Asked Questions
+3. Common Logistics Challenges (Challenges Accordion)
+4. Know Where Your Goods Are — At Every Stage (Content Block 2)
+5. Frequently Asked Questions
 
 ---
 
@@ -94,7 +95,32 @@ Yes. We can ship directly to your end customer or distribution centre anywhere i
 
 ---
 
-### Section 4: Frequently Asked Questions
+### Section 4: Predictable Delivery, Every Shipment (Content Block 2)
+
+*[Second content block — appears after "How We Work" steps, orange background]*
+
+**Subtitle:** Logistics
+
+**Title:** Know where your goods are — at every stage
+
+**Content:**
+
+Logistics uncertainty is one of the biggest sources of stress in China imports. Containers that seem to disappear for weeks. Customs holds caused by a missing document. Arrival dates that shift without warning. We eliminate this by managing the chain from factory floor to your warehouse door.
+
+Before goods leave the factory, our China team supervises loading and confirms the container is sealed correctly. During transit, you receive tracking updates at each milestone — departure, transhipment, customs clearance, and estimated arrival. If anything changes, you hear from us before you need to ask.
+
+Our logistics network includes freight forwarders in both China and the Netherlands, giving us rate flexibility and routing options that a single carrier cannot match. Whether you ship one pallet by air or twenty containers by sea, we find the option that fits your timeline and budget.
+
+**Selling points:**
+- End-to-end tracking from factory to warehouse
+- Loading supervision by our China team
+- Rate comparison across multiple carriers and routes
+
+**CTA:** Request a Sourcing Scan →
+
+---
+
+### Section 5: Frequently Asked Questions
 
 **Q1: How long does sea freight from China to the Netherlands take?**
 A: Typical transit time is 30–40 days port to port, depending on the departure port in China and the route. Add 3–5 days for inland transport on each end. We provide the exact schedule with your transport quote.

@@ -27,10 +27,11 @@
 Trading
 
 ### H2 Sections
-1. Simplified Importing Under One Invoice
-2. How Trading Works
-3. Common Trading Questions
-4. Frequently Asked Questions
+1. Simplified Importing Under One Invoice (Content Block 1)
+2. How Trading Works (Steps)
+3. Common Trading Questions (Challenges Accordion)
+4. Simplify Your Import — We Handle Everything (Content Block 2)
+5. Frequently Asked Questions
 
 ---
 
@@ -92,7 +93,32 @@ Yes. Many clients start with trading to test a product or market, then transitio
 
 ---
 
-### Section 4: Frequently Asked Questions
+### Section 4: One Invoice, Full Quality Control (Content Block 2)
+
+*[Second content block — appears after "How We Work" steps, orange background]*
+
+**Subtitle:** Trading
+
+**Title:** Simplify your import — we handle everything
+
+**Content:**
+
+Trading with M-Asia means you get the benefits of Chinese manufacturing without the complexity of managing a factory relationship. You tell us what you need, we deliver it to your door — sourced from our vetted network, quality-inspected by our team, and shipped with complete documentation.
+
+This model is designed for efficiency. Your purchasing team deals with one supplier (us), receives one invoice per order, and has one point of contact for questions. Behind the scenes, our China team handles factory negotiations, production tracking, inspections, and logistics.
+
+Trading is especially effective for businesses testing a new product category, adding seasonal lines, or importing standard products where factory-level optimisation is less critical than speed and simplicity.
+
+**Selling points:**
+- One supplier, one invoice, one point of contact
+- Same QC standards as our full sourcing service
+- Ideal for testing new products or seasonal ranges
+
+**CTA:** Request a Sourcing Scan →
+
+---
+
+### Section 5: Frequently Asked Questions
 
 **Q1: What is the minimum order value for trading?**
 A: Factory MOQs still apply, but we can often combine smaller orders or suggest alternative products with lower minimums. We advise on realistic quantities during the initial brief.

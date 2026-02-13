@@ -27,10 +27,11 @@
 Communication in China
 
 ### H2 Sections
-1. Clear Communication, Fewer Mistakes
+1. Clear Communication, Fewer Mistakes (Content Block 1)
 2. How We Bridge the Gap
-3. Common Communication Challenges
-4. Frequently Asked Questions
+3. Common Communication Challenges (Challenges Accordion)
+4. One Message from You, Clear Action at the Factory (Content Block 2)
+5. Frequently Asked Questions
 
 ---
 
@@ -92,7 +93,32 @@ Yes. We can step in as your communication layer with existing suppliers. Many cl
 
 ---
 
-### Section 4: Frequently Asked Questions
+### Section 4: Your Bridge Between Europe and China (Content Block 2)
+
+*[Second content block — appears after "How We Work" steps, orange background]*
+
+**Subtitle:** Communication
+
+**Title:** One message from you, clear action at the factory
+
+**Content:**
+
+Effective sourcing from China depends on communication that is precise, timely, and culturally aware. A single misunderstood specification can result in thousands of defective units. A vague delivery commitment from a factory can mean weeks of uncertainty for your launch.
+
+M-Asia eliminates this friction. You send one message to your contact in the Netherlands — in your language, in your time zone — and our China team converts it into clear, actionable instructions for the factory. Instructions are issued in Mandarin with technical precision, confirmed in writing, and tracked until completed.
+
+This is not machine translation. Our team understands manufacturing vocabulary, Chinese business etiquette, and the specific ways factories interpret instructions. The result: fewer errors, faster turnaround, and a factory relationship built on mutual clarity instead of frustration.
+
+**Selling points:**
+- One message from you becomes clear factory action
+- Native Mandarin speakers with manufacturing expertise
+- Written audit trail for every instruction and decision
+
+**CTA:** Request a Sourcing Scan →
+
+---
+
+### Section 5: Frequently Asked Questions
 
 **Q1: Do I still communicate directly with the factory?**
 A: That is up to you. Some clients prefer to communicate directly with our team as the single point of contact. Others join calls or email threads with the factory. We adapt to your preference.

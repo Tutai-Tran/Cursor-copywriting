@@ -27,10 +27,11 @@
 Product Development
 
 ### H2 Sections
-1. From Concept to Production-Ready Product
-2. Common Development Challenges
-3. Our Development Process
-4. Frequently Asked Questions
+1. From Concept to Production-Ready Product (Content Block 1)
+2. Common Development Challenges (Challenges Accordion)
+3. Our Development Process (Steps)
+4. From Approved Sample to Reliable Production (Content Block 2)
+5. Frequently Asked Questions
 
 ---
 
@@ -94,7 +95,30 @@ We issue detailed specification sheets with dimensions, materials, colours (Pant
 
 ---
 
-### Section 4: Frequently Asked Questions
+### Section 4: Production-Ready Output (Content Block 2)
+
+*[Second content block — appears after "How We Work" steps, orange background]*
+
+**Subtitle:** Development
+
+**Title:** From approved sample to reliable production
+
+**Content:**
+
+A good sample is not the finish line — it is the starting point for consistent manufacturing. Our development process does not stop at a sample you approve. We create a complete production file that the factory uses as the reference for every batch: technical drawings, material specifications, colour standards, packaging layout, and quality checkpoints.
+
+This file ensures that batch ten looks exactly like batch one. It also means you are not dependent on one person's memory at the factory. If staff change, if you move to a second supplier, or if you need to scale — the documentation carries the knowledge.
+
+**Selling points:**
+- Complete production file — not just a sample
+- Repeatable quality across batches and factories
+- Cost-locked specifications with no ambiguity
+
+**CTA:** Request a Sourcing Scan →
+
+---
+
+### Section 5: Frequently Asked Questions
 
 **Q1: Can you develop a product from just an idea or sketch?**
 A: Yes. We work with everything from rough sketches to detailed CAD files. If you start with a concept, we help refine it into technical drawings and specifications that a factory can work with.
