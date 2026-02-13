@@ -51,6 +51,12 @@ A: Our soft toy range includes small (15–20 cm), medium (25–35 cm), and larg
 **Q4: Can I order an assortment of soft toys?**
 A: MOQs apply per individual product. Contact us if you would like to discuss a mixed assortment order — we may be able to create a custom selection depending on stock levels.
 
+**Q5: Are the soft toys suitable as prizes for fairs or events?**
+A: Yes. Many of our soft toy products are popular as claw machine prizes, fair prizes, and event giveaways. Their size, quality, and price point make them ideal for this purpose. Contact us for volume pricing on prize-suitable products.
+
+**Q6: Do you offer soft toys with custom embroidery or branding?**
+A: Our catalog contains standard products. For custom embroidery, branded tags, or private-label soft toys, please contact our sourcing team through the main website. We can produce custom plush through our factory network.
+
 ---
 
 ## Conversion Improvements

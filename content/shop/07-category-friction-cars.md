@@ -51,6 +51,12 @@ A: Yes. All paints and coatings used on our friction cars comply with EU safety 
 **Q4: What sizes are available?**
 A: Our friction car range includes small (8–12 cm), medium (15–20 cm), and larger sizes. Exact dimensions are listed on each product page.
 
+**Q5: Are friction cars popular for resale at markets and fairs?**
+A: Very popular. Their low unit cost, visual appeal, and no-battery-needed simplicity make friction cars one of the best-selling products for market stalls, fair prizes, and party bag fillers across Europe.
+
+**Q6: Do you offer friction cars in themed collections?**
+A: Some friction cars are available as themed sets (e.g., emergency vehicles, construction vehicles). Check individual product pages for set options, or contact us if you need a specific theme assortment.
+
 ---
 
 ## Conversion Improvements

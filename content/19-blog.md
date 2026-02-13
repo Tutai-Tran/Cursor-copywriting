@@ -93,6 +93,28 @@ Use these articles to prepare for your next sourcing project, stay informed on r
 
 ---
 
+## FAQ Section
+
+**Q1: How often do you publish new articles?**
+A: We aim to publish two articles per month, covering compliance updates, sourcing tips, logistics advice, and sector-specific insights. Subscribe to our updates to be notified when new articles go live.
+
+**Q2: Who writes the M-Asia blog articles?**
+A: Our articles are written by the M-Asia team — sourcing specialists and quality managers with hands-on experience in Chinese manufacturing. Content is based on real project experience, not theory.
+
+**Q3: Can I suggest a topic?**
+A: Yes. If you have a question about importing from China that you would like us to address, contact us. We welcome topic suggestions from clients and visitors — it helps us write content that solves real problems.
+
+**Q4: Are these articles relevant if I already have a supplier in China?**
+A: Absolutely. Many articles cover topics like quality control improvement, cost benchmarking, compliance updates, and logistics optimisation that are directly useful for brands with existing supply chains.
+
+**Q5: Can I share or republish your articles?**
+A: You are welcome to share links to our articles. If you would like to republish content, please contact us for permission. We are generally open to syndication with proper attribution.
+
+**Q6: Where can I find articles about specific topics like GPSR or EN71?**
+A: Use the category filters or search function to find articles by topic. Key categories include compliance, sourcing, quality control, logistics, and sector-specific content. We tag each article with relevant topics for easy discovery.
+
+---
+
 ## Additional Content Opportunities
 
 ### Internal Linking

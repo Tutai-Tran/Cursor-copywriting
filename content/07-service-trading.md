@@ -106,6 +106,15 @@ A: Yes. We coordinate custom branding, packaging design, and labelling as part o
 **Q4: What happens if there is a quality problem after delivery?**
 A: We stand behind the products we trade. If goods arrive with quality issues that were not caught during inspection, we work with the factory to resolve the matter — whether through replacement, credit, or rework on the next order.
 
+**Q5: How long does a trading order take from request to delivery?**
+A: Timelines depend on whether the product is in stock at the factory or needs to be produced. Standard products can be shipped within 4–6 weeks. Custom or seasonal products may take 8–12 weeks. We provide a clear timeline before you confirm the order.
+
+**Q6: Do I receive EU-compliant documentation with my order?**
+A: Yes. We ensure that all traded products come with the required documentation — test reports, certificates of compliance, commercial invoices, and packing lists. For products requiring CE marking or EN71 testing, we coordinate lab testing and supply the certificates.
+
+**Q7: Can I use trading for a one-time import?**
+A: Absolutely. Trading is ideal for one-time purchases. You do not need an ongoing contract or commitment. Many clients use trading for a single order to test a product or market before deciding on repeat orders.
+
 ---
 
 ## Placeholder Content Identified on Current Page

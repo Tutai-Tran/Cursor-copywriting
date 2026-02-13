@@ -68,6 +68,28 @@ Toys and children's products sourced from manufacturers who understand and compl
 
 ---
 
+## FAQ Section
+
+**Q1: Does M-Asia only work with these three sectors?**
+A: Leisure, retail, and toys are our core focus areas because they share common supply chain patterns — seasonal demand, strict EU compliance, and consumer-grade quality standards. However, our sourcing process is product-agnostic. If your product is manufactured in China, we can support you regardless of sector.
+
+**Q2: How does the sourcing process differ between sectors?**
+A: The core steps — intake, supplier validation, sampling, QC, and logistics — remain the same. What changes is the compliance framework (EN71 for toys, specific EN standards for leisure equipment), the factory type we target (material specialists, electronics-capable, certification-experienced), and how we align production timing with your market calendar.
+
+**Q3: Can M-Asia handle products that span multiple sectors?**
+A: Yes. If your product has characteristics of more than one sector — for example, a toy designed for outdoor leisure use — we apply the compliance and quality requirements of both categories. This ensures you meet the strictest applicable standards.
+
+**Q4: Do you have sector-specific case studies I can review?**
+A: We are building a case study library that includes projects from each sector. Contact us and we can share relevant project examples during the intake conversation.
+
+**Q5: What certifications are typically needed for each sector?**
+A: Toys require EN71, REACH, and CE marking at minimum. Retail consumer products generally need CE and REACH. Leisure equipment may need specific EN standards depending on the product type (e.g., playground equipment, sporting goods). We identify the exact requirements during the sourcing intake.
+
+**Q6: How do seasonal differences affect sourcing by sector?**
+A: Toy sourcing is heavily seasonal around Q4 (Christmas). Retail follows promotional and seasonal buying calendars. Leisure peaks in spring for summer stock. We plan production timelines around these cycles, including buffer time for Chinese holidays like Chinese New Year, to ensure on-time delivery.
+
+---
+
 ## Placeholder Content Identified on Current Page
 
 | Location | Current Content | Status |

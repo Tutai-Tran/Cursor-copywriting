@@ -92,6 +92,34 @@ There is no commitment at any stage. You decide whether to proceed based on the 
 
 ---
 
+## FAQ Section
+
+**Q1: What exactly is a sourcing scan?**
+A: A sourcing scan is a free assessment of your product idea. We evaluate whether it can be manufactured in China, identify suitable factory types, estimate pricing ranges and lead times, and flag risks such as certifications or tooling requirements. You receive a concise report that gives you clarity before committing any budget.
+
+**Q2: Is the sourcing scan really free?**
+A: Yes. There is no charge for the scan and no obligation to proceed. We use it to understand your project and determine whether M-Asia is the right fit. If the scan results are promising, we discuss next steps. If not, you walk away with useful market intelligence at no cost.
+
+**Q3: How long does a sourcing scan take?**
+A: Typically one to two weeks from the moment we receive your completed form. Simple products with standard materials are faster. Complex products with specific certifications or custom tooling may take slightly longer as we research factory capabilities more thoroughly.
+
+**Q4: What information do I need to provide?**
+A: The more detail you share, the more specific our assessment will be. Ideally: a product description or images, your target retail or wholesale price, expected order volume, desired launch date, and target market (EU, NL, specific retailers). If you only have a rough concept, that is fine — we can work with that.
+
+**Q5: Will you share my product idea with factories?**
+A: Not without your permission. During the scan phase, we research factory types and capabilities without disclosing your specific product. We only share details with vetted manufacturers after you approve moving forward and an NDA is in place.
+
+**Q6: What happens after I receive the scan results?**
+A: We schedule a call to walk you through the findings. If you want to proceed, we propose a project plan with clear steps, costs, and timeline. If you decide not to proceed, there is no further obligation. The scan results are yours to keep.
+
+**Q7: Can I request a sourcing scan for multiple products at once?**
+A: Yes. If you have several products in mind, describe them all in the form. We will assess each one and may recommend prioritising based on feasibility, margins, or market timing.
+
+**Q8: I already have a supplier in China. Can you still do a scan?**
+A: Yes. We can benchmark your current supplier's pricing and quality against alternatives in our network. This is especially useful if you are experiencing price increases, quality inconsistencies, or communication difficulties with your existing factory.
+
+---
+
 ## Additional Content Opportunities
 
 ### Trust Elements

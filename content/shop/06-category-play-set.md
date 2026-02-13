@@ -51,6 +51,12 @@ A: Products with electronic features may require batteries. Battery requirements
 **Q4: Can I combine play sets with other categories in one order?**
 A: Yes. You can mix products from any category in a single order. MOQs apply per individual product.
 
+**Q5: Are the play sets ready for retail display?**
+A: Yes. All play sets come in colourful retail-ready boxes with product images, feature descriptions, and age recommendations printed on the packaging. They are designed for direct shelf placement.
+
+**Q6: Do you regularly add new play set themes?**
+A: Yes. We add new themes and designs as shipments arrive from our manufacturing partners. Register for an account and contact us to be notified when new play sets are available.
+
 ---
 
 ## Conversion Improvements

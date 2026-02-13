@@ -96,6 +96,28 @@ Phone: 0086-13602491839
 
 ---
 
+## FAQ Section
+
+**Q1: How quickly will M-Asia respond to my enquiry?**
+A: We aim to reply within the same business day for enquiries received before 15:00 CET. Most messages are answered within a few hours. If your request requires research (e.g., pricing for a specific product category), we will confirm receipt and provide a timeline for a detailed response.
+
+**Q2: Is my product information kept confidential?**
+A: Yes. All information you share with us is treated as confidential. We do not share product details, designs, or specifications with any third party without your explicit written approval. We are happy to sign an NDA before you share sensitive information.
+
+**Q3: Can I schedule a phone call or video meeting instead of filling out the form?**
+A: Absolutely. You can call us directly at +31 (0)6 4780 0813 during business hours (Monday–Friday, 9:00–17:00 CET). If you prefer a scheduled video call, mention this in the contact form and we will send you a calendar link.
+
+**Q4: Which languages does M-Asia support?**
+A: Our Dutch team communicates in English and Dutch. Our China team communicates in Mandarin, English, and Cantonese. The website is available in English and Dutch.
+
+**Q5: What information should I prepare before contacting M-Asia?**
+A: To give you the most useful response, it helps to have: a description or image of your product, your target price point, estimated order volume, desired delivery timeline, and your target market. If you do not have all of this yet, that is fine — we can guide you through the process.
+
+**Q6: Can I visit your office in the Netherlands?**
+A: Yes. You are welcome to visit our office in Rijen. We recommend scheduling a visit in advance so we can prepare relevant product samples and give you our full attention. Contact us to arrange a date.
+
+---
+
 ## Additional Content Opportunities
 
 ### Trust Elements

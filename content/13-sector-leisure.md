@@ -108,6 +108,12 @@ A: We plan production calendars around your sell-in dates and factor in Chinese 
 **Q4: Can you source eco-friendly materials for leisure products?**
 A: We can source recycled, sustainable, or certified materials (FSC wood, recycled plastics, organic fabrics) from factories with the relevant certifications. Material options are presented during the development phase.
 
+**Q5: What is the typical lead time for leisure product sourcing?**
+A: From sourcing intake to first shipment, most leisure products take 12–20 weeks depending on complexity, tooling requirements, and sample approval rounds. Products with standard materials and no custom tooling move faster. We provide a realistic timeline during the intake.
+
+**Q6: Can you help with product liability and safety testing?**
+A: We coordinate third-party safety testing through accredited labs. For leisure products, this may include load testing, material stress testing, UV resistance testing, and chemical compliance (REACH). Test results are available before production begins, reducing the risk of post-production failure.
+
 ---
 
 ## Placeholder Content Identified on Current Page

@@ -108,6 +108,15 @@ A: We offer purchasing guidance at a fixed advisory fee, scoped to the number of
 **Q4: Can you attend supplier meetings on my behalf?**
 A: Yes. Our China team can represent you in supplier negotiations, factory visits, and trade fairs. We prepare negotiation strategies in advance and debrief you on outcomes and recommendations.
 
+**Q5: How much can I realistically save with purchasing guidance?**
+A: Savings vary by product and current supplier situation. Many clients discover 10–20% cost reduction through price benchmarking alone. Additional savings come from optimised payment terms, reduced rush charges through better production planning, and lower logistics costs through smarter shipping timing.
+
+**Q6: Can you help me reduce dependency on a single supplier?**
+A: Yes. We can identify and qualify alternative factories as backup suppliers. Having a second source reduces risk and gives you negotiation leverage with your primary factory. We help you onboard backup suppliers without disrupting your current production.
+
+**Q7: What if I am a first-time importer with no existing suppliers?**
+A: Purchasing guidance is valuable at any stage. For first-time importers, we focus on helping you understand pricing structures, avoid common pitfalls (unrealistic MOQs, unfavourable payment terms), and set up your procurement process correctly from the start. This can save you significant time and money on your first order.
+
 ---
 
 ## Placeholder Content Identified on Current Page

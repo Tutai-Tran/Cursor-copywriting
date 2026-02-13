@@ -51,6 +51,12 @@ A: Some accessory sets (clothing, wardrobes) are available as standalone product
 **Q4: Can I request custom packaging or branding?**
 A: Our catalog offers standard packaged products. For custom packaging, branding, or private-label dolls, please contact our sourcing team via the main website.
 
+**Q5: Do doll sets come with all accessories shown in the photos?**
+A: Yes. All items shown in the product photography are included in the set. Contents are also listed on the product page and on the physical packaging.
+
+**Q6: Are the dolls available in different skin tones or styles?**
+A: Our current catalog reflects what is in stock. If you need specific styles, skin tones, or designs that are not in the catalog, contact our sourcing team — we can source custom dolls through our Chinese manufacturing network.
+
 ---
 
 ## Conversion Improvements

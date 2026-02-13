@@ -51,6 +51,12 @@ A: Products come in colourful retail-ready boxes that display the theme and incl
 **Q4: Do hanging sheets include accessories?**
 A: Yes. Each hanging sheet product includes themed accessories (play tools, figures, or interactive elements) that attach to the sheet. The number and type of accessories vary by product.
 
+**Q5: Can hanging sheets be used as retail display items?**
+A: Yes. Many retailers use hanging sheets as display products — they are visually appealing, can be hung on pegboard walls, and attract attention in toy aisles. Their retail-ready packaging includes hanging hooks.
+
+**Q6: Are hanging sheets a good product for e-commerce?**
+A: Hanging sheets photograph well and have a strong "what's included" appeal for online listings. The flat packaging keeps shipping costs low. They perform well as impulse purchases and gift items in online toy stores.
+
 ---
 
 ## Conversion Improvements

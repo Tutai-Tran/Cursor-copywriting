@@ -51,6 +51,12 @@ A: Minimum order quantities apply per SKU. Contact our team if you need a mixed 
 **Q4: What is the minimum order for balls?**
 A: MOQs vary by product and are displayed on each product page for registered buyers. Typical MOQs for balls range from 60 to 200 units.
 
+**Q5: How are the balls packaged?**
+A: Balls come in retail-ready packaging — typically display boxes, net bags, or individual polybags depending on the product. Packaging details and images are shown on each product page.
+
+**Q6: Can I order balls for promotional or event use?**
+A: Yes. Our balls are popular for promotions, events, and party bags. For large promotional orders or custom printing, contact our team to discuss your requirements and timeline.
+
 ---
 
 ## Conversion Improvements

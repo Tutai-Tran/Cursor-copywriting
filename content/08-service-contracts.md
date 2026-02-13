@@ -106,6 +106,15 @@ A: We first attempt resolution through direct negotiation — most disputes are 
 **Q4: Can you help with import compliance contracts?**
 A: We can incorporate compliance requirements (CE, REACH, EN71, etc.) into the supplier agreement so that the factory is contractually responsible for meeting EU product safety standards.
 
+**Q5: Is a Chinese-language version of the contract necessary?**
+A: Yes, and all our contracts are bilingual (English and Chinese). A contract that only exists in English has limited practical enforceability in Chinese courts. The Chinese-language version ensures the factory's legal department and local authorities can interpret the terms correctly.
+
+**Q6: How often should supplier contracts be reviewed or renewed?**
+A: We recommend reviewing contracts annually or whenever there is a significant change — new product line, price renegotiation, change in production volume, or updated EU regulations. We can manage periodic reviews as part of an ongoing advisory relationship.
+
+**Q7: Can the same contract cover multiple products?**
+A: Yes. We can structure a master supply agreement that covers multiple SKUs with product-specific annexes for pricing, specifications, and quality standards. This is more efficient than separate contracts per product and provides a consistent legal framework.
+
 ---
 
 ## Placeholder Content Identified on Current Page

@@ -106,6 +106,15 @@ A: Yes. If you visit trade fairs like the Canton Fair, we can accompany you or p
 **Q4: Is communication support included in your sourcing service?**
 A: Yes. Factory communication is a built-in part of all our sourcing and quality control services. It can also be engaged as a standalone service if you have an existing supplier relationship that needs better communication support.
 
+**Q5: What are the most common communication problems you solve?**
+A: The top issues are misunderstood product specifications (leading to wrong samples), vague delivery commitments ("soon" instead of a date), undisclosed cost changes, and factories agreeing to requirements they cannot actually meet. We prevent these by documenting everything in writing, confirming in both languages, and verifying claims on-site.
+
+**Q6: Can your team attend video calls between me and the factory?**
+A: Yes. We can join video calls as interpreter and technical advisor. This is especially useful during sample reviews, production planning discussions, and price negotiations. We prepare a written summary of agreed points after each call.
+
+**Q7: How do you handle cultural differences in Chinese business negotiations?**
+A: Chinese business culture places high value on relationships, face-saving, and indirect communication. Our team understands these dynamics and manages negotiations in a way that achieves your commercial objectives while maintaining a productive long-term relationship with the factory. We advise you on when to push, when to compromise, and how to frame requests for the best outcome.
+
 ---
 
 ## Placeholder Content Identified on Current Page

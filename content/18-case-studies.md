@@ -80,6 +80,28 @@ Each case study should follow this structure:
 
 ---
 
+## FAQ Section
+
+**Q1: Are these real client projects?**
+A: Yes. Every case study is based on an actual sourcing or production project managed by M-Asia. Specific client names or product details may be anonymised to protect commercial confidentiality, but the challenges, approach, and outcomes are real.
+
+**Q2: Can I speak with a reference client?**
+A: In some cases, yes. We can connect you with existing clients who are willing to share their experience. Contact us and let us know your product category or situation, and we will suggest a relevant reference if one is available.
+
+**Q3: How long does a typical sourcing project take?**
+A: Timelines vary by product complexity. Simple products can move from brief to first shipment in 8–12 weeks. Complex products requiring custom tooling, certifications, or multiple sample rounds may take 16–24 weeks. Each case study includes the actual timeline for reference.
+
+**Q4: Do you only work with large brands?**
+A: No. Our case studies include projects with startups, small retailers, established wholesalers, and large buying organisations. The process scales to your volume and budget.
+
+**Q5: What results can I realistically expect?**
+A: Outcomes depend on your starting point. First-time importers typically gain access to factory pricing 20–40% below trading company rates. Clients with existing suppliers often improve quality consistency and reduce lead times. Every project starts with a realistic assessment during the sourcing scan.
+
+**Q6: My project is different from these case studies. Can M-Asia still help?**
+A: Very likely. Our process is product-agnostic. If your product can be manufactured in China, we can apply our structured sourcing approach. Request a free sourcing scan and we will assess your specific situation.
+
+---
+
 ## Additional Content Opportunities
 
 ### Internal Linking

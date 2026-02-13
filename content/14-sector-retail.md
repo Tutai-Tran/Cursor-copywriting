@@ -108,6 +108,12 @@ A: We quote in the agreed currency and lock factory pricing before production. I
 **Q4: What MOQs should I expect for retail products?**
 A: MOQs vary by product and factory. Simple products may start at 500–1,000 units. Custom-tooled or branded items may require higher volumes. We negotiate MOQs based on your volume and present alternatives when minimums are above your buy depth.
 
+**Q5: Can you source products for online-only retail (e-commerce)?**
+A: Yes. We source for both online and offline retail. For e-commerce, we pay extra attention to product photography packaging, shipping-safe packaging (to survive courier handling), and correct EAN/barcode labelling for marketplace listings.
+
+**Q6: How do you ensure products look the same across repeat orders?**
+A: We maintain a master specification file that includes exact material references, Pantone colours, dimensions, and approved packaging artwork. Every reorder is produced and inspected against this master file. If any deviation is detected, it is corrected before shipment.
+
 ---
 
 ## Placeholder Content Identified on Current Page
